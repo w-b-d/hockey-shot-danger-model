@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+.venv/
+venv/
+
+# Keep the synthetic demo sample, but do not commit downloaded MoneyPuck files.
+data/shots.csv
+data/shots_*.csv
+data/*.zip
+
