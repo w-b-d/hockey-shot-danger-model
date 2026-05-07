@@ -63,7 +63,7 @@ jupyter notebook notebooks/01_shot_danger_model.ipynb
 ## Repo Layout
 
 ```text
-hockey_project/
+hockey-shot-danger-model/
   app.py
   make_sample_data.py
   README.md
